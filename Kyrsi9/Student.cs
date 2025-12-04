@@ -8,7 +8,7 @@ namespace lesson9
 {
     internal class Student:Person
     {
-        public void Doing()
+        public override void Doing()
         {
             Console.WriteLine("Study");
         }

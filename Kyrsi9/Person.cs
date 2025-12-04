@@ -17,6 +17,6 @@ namespace lesson9
         {
             age = Age;
         }
-        public void Doing() { }
+        public virtual void Doing() { }
     }
 }
